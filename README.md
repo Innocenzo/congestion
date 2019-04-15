@@ -1,7 +1,5 @@
 #Concentrazione delle Persone nel 2015 a Roma
 ---------------------------------------------------
-Link per visualizzare la [Demo](http://52.40.120.58/ProjectInfiVis/ProjectThreejs.html)
-
 ## Introduzione
 ---------------
 Il progetto presentato si pone l'obiettivo di visualizzare la congestione delle persone nei vari luoghi di interesse durante tutto il corso del'anno 2015. La rappresentazione è stata creata in 3D utilizzando Three.js. Il progetto mostra una mappa attuale di Roma, dei segmenti perpendicolari alla mappa che servono a puntare i vari luoghi per una più chiara visualizzazione ed infine 12 differenti livelli, uno per ogni mese, di colori differenti per distinguerli tra di loro (non presenti nella legenda) e distanziati in altezza.
